@@ -17,3 +17,7 @@ A modo de resumen, podemos dividir esta práctica en los siguientes puntos:
    * Conclusiones
    * Bibliografía
 
+
+Como resultados, obtendremos una clasificación prácticamente perfecta.
+
+![gatosvsperros](clasificacion.png)
