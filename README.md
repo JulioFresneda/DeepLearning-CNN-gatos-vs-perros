@@ -20,4 +20,4 @@ A modo de resumen, podemos dividir esta práctica en los siguientes puntos:
 
 Como resultados, obtendremos una clasificación prácticamente perfecta.
 
-![gatosvsperros](clasificacion.png)
+![gatosvsperros](gatosvsperros.png)
